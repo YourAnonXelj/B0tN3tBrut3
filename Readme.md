@@ -17,7 +17,9 @@ zmap -p22 -o mfu.txt -w Legend.lst
 2- python TelnetBrute.py mfu.txt 15000 test.txt
 
 
-<img src="https://raw.githubusercontent.com/XeljomudoX/TelnetBrute.py/master/lol.png">
+
+
+<img src="https://raw.githubusercontent.com/XeljomudoX/TelnetBrute.py/master/lul.png">
 
 
 
