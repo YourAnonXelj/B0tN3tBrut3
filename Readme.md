@@ -21,8 +21,3 @@ zmap -p22 -o mfu.txt -w Legend.lst
 
 
 
-
-
-Usage:
-
-python TelnetBrute.py mfu.txt 15000 test.txt
