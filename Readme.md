@@ -10,7 +10,7 @@ sh zmap_auto_install.sh
 
 zmap -p23 -o mfu.txt -N 15000 
 
-- Bruteforce (Repeat The Process)
+- Bruteforce 
 
 1- ulimit -n 999999
 
