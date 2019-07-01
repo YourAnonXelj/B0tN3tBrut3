@@ -1,4 +1,4 @@
-[VPS CentOS 6.9 2GB-RAM] 
+[VPS CentOS 6.9/6.8 2GB-RAM] 
 
 - Install zmap
 
