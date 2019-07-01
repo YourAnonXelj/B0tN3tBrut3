@@ -153,7 +153,7 @@ class router(threading.Thread):
 			try:
 				tn = socket.socket()
 				tn.settimeout(8)
-				tn.connect((self.ip,22))
+				tn.connect((self.ip,23))
 			except Exception:
 				tn.close()
 				break
