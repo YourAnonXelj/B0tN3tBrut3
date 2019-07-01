@@ -10,7 +10,7 @@ sh zmap_auto_install.sh
 
 1- zmap -p23 -o mfu.txt -N 25000   OR   zmap -p23 -o mfu.txt -w example.lst
 
-1,5-- zmap -p22 -o mfussh.txt -w -N 25000 
+  1,5-- zmap -p22 -o mfussh.txt -w -N 25000 
 
 - Bruteforce 
 
