@@ -2,9 +2,7 @@
 
 - Install zmap
 
-yum update -y 
-
-sh zmap_auto_install.sh
+1- sh zmap_auto_install.sh
 
 - Scan Telnet/Ssh Ips
 
