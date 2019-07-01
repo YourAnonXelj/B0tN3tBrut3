@@ -6,9 +6,11 @@
 
 - Scan Telnet/Ssh Ips
 
-1- zmap -p23 -o mfutelnet.txt -N 25000    ---OR---    zmap -p22 -o mfussh.txt -w -N 25000
+1- ulimit -n 999999
 
-   1,5--(optional)  zmap -p23 -o mfutelnet.txt -w telnet.lst   ---OR---   zmap -p22 -o mfussh.txt -w ssh.lst
+2- zmap -p23 -o mfutelnet.txt -N 25000    ---OR---    zmap -p22 -o mfussh.txt -w -N 25000
+
+   1,5-(optional)  zmap -p23 -o mfutelnet.txt -w telnet.lst   ---OR---   zmap -p22 -o mfussh.txt -w ssh.lst
 
 - Bruteforce 
 
