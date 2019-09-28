@@ -1,4 +1,4 @@
-[VPS CentOS 6.9/6.8] 
+[VPS CentOS 6.9/6.8] (Recomendado)
 
 - Install zmap
 
