@@ -2,7 +2,7 @@
 
 - Install zmap
 
-1- sh zmap_auto_install.sh
+1- sh CentOS_zmap_auto_install.sh OR Debian_zmap_auto_install.sh
 
 - Scan Telnet/Ssh Ips
 
