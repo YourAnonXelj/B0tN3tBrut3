@@ -8,7 +8,7 @@ Usage: Read ReadmeTelnet.md & ReadmeSsh.md
   
   
   
-  <img src="https://raw.githubusercontent.com/YourAnonXelj/B0tN3tBrut3/master/lul2.png">
+  <img src="https://raw.githubusercontent.com/XeljomudoX/TelnetBrute.py/master/lul.png"><img src="https://raw.githubusercontent.com/YourAnonXelj/B0tN3tBrut3/master/lul2.png">
 
   
   
