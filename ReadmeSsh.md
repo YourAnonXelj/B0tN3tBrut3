@@ -10,8 +10,8 @@
    1- sh ScannerInstall.sh         
    
    
-   //-// if it asks for [Yes] press enter
-   //-// if it asks for [autodetect] press enter
+    if it asks for [Yes] press enter
+    if it asks for [autodetect] press enter
 
 
   
