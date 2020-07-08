@@ -9,6 +9,10 @@
 
   
   1- sh CentOS_zmap_auto_install.sh
+  
+      - si te sale el error "zmap: command not found" 
+      
+      - pon este comando export PATH="/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/root/bin"
 
   2- sh ScannerInstall.sh
 
